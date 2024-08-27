@@ -1,4 +1,4 @@
-# Sobre mim
+.# Sobre mim
 
 
 - 👋 Olá me chamo Rebeca, sou ESTUDANTE da rede Estadual do Paraná, no componente, Pensamento Computacional e Programação
@@ -14,4 +14,4 @@
 
 Qualquer dúvida entre em contato
 <a href="rebeca.silva26@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&quot; target="_blank"/></a>
-![]([XXXXXXXXXXXXX](https://media1.tenor.com/m/rb8vYraoN5oAAAAC/volleyball-dance.gif)
+![](https://media1.tenor.com/m/3EQTI8e1gsgAAAAd/spike-andrea-drews.gif)
