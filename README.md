@@ -14,4 +14,4 @@
 
 Qualquer dúvida entre em contato
 <a href="rebeca.silva26@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&quot; target="_blank"/></a>
-![](https://media1.tenor.com/m/3EQTI8e1gsgAAAAd/spike-andrea-drews.gif)
+![](https://media1.tenor.com/m/rb8vYraoN5oAAAAC/volleyball-dance.gif)
